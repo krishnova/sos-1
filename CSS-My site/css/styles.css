@@ -1,0 +1,73 @@
+body{
+
+  background-image:url(marble.jpg);
+  height: 100%;
+  width: 100%;
+  position: relative;
+  overflow-x: hidden;
+
+
+}
+
+.top-container{
+  text-align: center;
+  position: absolute;
+  top: 300px;
+  font-family: 'Sacramento', cursive;
+  font-size: 30px;
+  width: 100%;
+}
+
+.bio{
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  text-align: center;
+  top:950px;
+  width: 100%;
+  font-size: 30px;
+}
+
+#pic{
+  height: 200px;
+  width: 200px;
+
+}
+#name{
+  margin-bottom: 20px;
+}
+
+#job{
+  font-family: 'Merriweather', serif;
+  font-weight: normal;
+  font-size: 25px;
+}
+
+.skills{
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  top: 1500px;
+}
+
+#skills{
+  font-size: 50px;
+}
+
+#skillsimg{
+  margin: 20px 0 20px 0;
+}
+#list{
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  width: 15%;
+  margin:0 auto 70px auto;
+  list-style-position: outside;
+}
+
+.req{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  position: absolute;
+  top:2200px;
+  width: 100%;
+}
